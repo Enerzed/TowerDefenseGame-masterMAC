@@ -1,0 +1,3 @@
+/Users/nikitaosurkov/Downloads/TowerDefenseGame-master/CMakeFiles/main.out.dir
+/Users/nikitaosurkov/Downloads/TowerDefenseGame-master/CMakeFiles/edit_cache.dir
+/Users/nikitaosurkov/Downloads/TowerDefenseGame-master/CMakeFiles/rebuild_cache.dir
